@@ -7,7 +7,7 @@ This organization contains several repositories with Go language tutorial projec
 Follow projects in this organization are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/).
 - [getting-started](https://github.com/GallifreyGoTutoural/getting-started): Introduces the basic concepts and syntax of the Go language.
 - [create-a-module](https://github.com/GallifreyGoTutoural/create-a-module): Introduces how to create and use Go language modules.
-- multi-module-workspaces: Introduces how to use multiple modules to compose a workspace.
+- [multi-module-workspaces](https://github.com/GallifreyGoTutoural/multi-module-workspaces): Introduces how to use multiple modules to compose a workspace.
 - accessing-a-relational-database: Introduces how to connect to and use a relational database.
 - developing-a-restful-api: Introduces how to develop a RESTful API using Go and the Gin framework.
 - getting-started-with-generics: Introduces how to use Go's generic features.
