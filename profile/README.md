@@ -1,4 +1,5 @@
 # 👋 Welcome to Gallifrey's Go Tutorial !
+[Englis](https://github.com/GallifreyGoTutoural/.github/tree/main/profile#readme) || [中文](https://github.com/GallifreyGoTutoural/.github/blob/main/%E8%BD%AE%E5%BB%93/README.md)
 ## 🧙About us
 This organization contains several repositories with Go language tutorial projects. All projects are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/).It is designed to help the majority of Go language lovers better learn and use this language.
 
