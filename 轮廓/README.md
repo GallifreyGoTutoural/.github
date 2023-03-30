@@ -1,8 +1,9 @@
 # 👋 Welcome to Gallifrey's Go Tutorial !
 ## 🧙About us
-This organization contains several repositories with Go language tutorial projects. All projects are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/).
+This organization contains several repositories with Go language tutorial projects. All projects are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/).It is designed to help the majority of Go language lovers better learn and use this language.
 
-## 👩‍💻Repositories
+## 💻Repositories
+Follow projects in this organization are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/).
 - getting-started: Introduces the basic concepts and syntax of the Go language.
 - create-a-module: Introduces how to create and use Go language modules.
 - multi-module-workspaces: Introduces how to use multiple modules to compose a workspace.
@@ -12,7 +13,7 @@ This organization contains several repositories with Go language tutorial projec
 - getting-started-with-fuzzing: Introduces how to use Go language for fuzz testing.
 - a-tour-of-go: Introduces the basic concepts and syntax of the Go language, suitable for beginners.
 
-All projects in this organization are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/). 
+We welcome contributions from the community, including additional Go language tutorial programs that you may create. If you have a project that you would like to share with others, please feel free to submit a pull request with your program code. Thank you for your contribution!
 
 ## 🌈Contributing
 If you'd like to contribute to any of the projects in this organization, feel free to submit a pull request. Please make sure to follow the branch protection rules for the repositories. If you have any questions or concerns, please open an issue in the respective repository. Thank you for your contribution!
