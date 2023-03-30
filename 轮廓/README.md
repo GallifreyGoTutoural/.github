@@ -6,8 +6,8 @@
 ## 💻 仓库
 以下代码库都基于官方 Go 文档中的教程 Tutorials - The Go Programming Language (google.cn)。
 
-- getting-started: 介绍了 Go 语言的基本概念和语法。
-- create-a-module: 介绍了如何创建和使用 Go 语言模块。
+- [getting-started](https://github.com/GallifreyGoTutoural/getting-started): 介绍了 Go 语言的基本概念和语法。
+- [create-a-module](https://github.com/GallifreyGoTutoural/create-a-module): 介绍了如何创建和使用 Go 语言模块。
 - multi-module-workspaces: 介绍了如何使用多个模块组成一个工作区。
 - accessing-a-relational-database: 介绍了如何连接和使用关系型数据库。
 - developing-a-restful-api: 介绍了如何使用 Go 和 Gin 框架开发 RESTful API。
