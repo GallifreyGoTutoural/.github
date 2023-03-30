@@ -15,8 +15,7 @@ This organization contains several repositories with Go language tutorial projec
 All projects in this organization are based on the official Go documentation at [Tutorials - The Go Programming Language (google.cn)](https://golang.google.cn/doc/tutorial/). 
 
 ## 🌈Contributing
-If you'd like to contribute to any of the projects in this organization, feel free to submit a pull request. Make sure to follow the branch protection rules for the repositories. If you have any questions or concerns, please open an issue in the respective repository.
-Thank you for your contribution!
+If you'd like to contribute to any of the projects in this organization, feel free to submit a pull request. Please make sure to follow the branch protection rules for the repositories. If you have any questions or concerns, please open an issue in the respective repository. Thank you for your contribution!
 
 ## ⚙️License
-Most of the organization's projects are released under the MIT license, but there may be other licenses, such as the GPL. Take care to review the license files in each repository.
+While most of the organization's projects are released under the MIT license, there may be other licenses, such as the GPL, for certain repositories. Please review the license files in each repository to ensure compliance.
