@@ -9,7 +9,7 @@ Follow projects in this organization are based on the official Go documentation 
 - [create-a-module](https://github.com/GallifreyGoTutoural/create-a-module): Introduces how to create and use Go language modules.
 - [multi-module-workspaces](https://github.com/GallifreyGoTutoural/multi-module-workspaces): Introduces how to use multiple modules to compose a workspace.
 - [accessing-a-relational-database](https://github.com/GallifreyGoTutoural/accessing-a-relational-database): Introduces how to connect to and use a relational database.
-- developing-a-restful-api: Introduces how to develop a RESTful API using Go and the Gin framework.
+- [developing-a-restful-api](https://github.com/GallifreyGoTutoural/developing-a-restful-api): Introduces how to develop a RESTful API using Go and the Gin framework.
 - getting-started-with-generics: Introduces how to use Go's generic features.
 - getting-started-with-fuzzing: Introduces how to use Go language for fuzz testing.
 - a-tour-of-go: Introduces the basic concepts and syntax of the Go language, suitable for beginners.
