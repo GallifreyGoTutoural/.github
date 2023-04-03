@@ -15,6 +15,10 @@
 - getting-started-with-fuzzing: 介绍了如何使用 Go 语言进行模糊测试。
 - a-tour-of-go: 介绍了 Go 语言的基本概念和语法，适合初学者。
 
+其他：
+
+- [go-gin-web-server](https://github.com/GallifreyGoTutoural/go-gin-web-server): 在Render上部署Go Gin
+
 我们欢迎社区成员的贡献，包括您可能创建的其他 Go 语言教程程序。如果您有一个想与其他人分享的项目，请随时提交带有程序代码的 pull request。感谢您的贡献！
 
 ## 🌈 贡献
