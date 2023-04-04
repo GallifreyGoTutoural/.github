@@ -12,7 +12,7 @@
 - [accessing-a-relational-database](https://github.com/GallifreyGoTutoural/accessing-a-relational-database): 介绍了如何连接和使用关系型数据库。
 - [developing-a-restful-api](https://github.com/GallifreyGoTutoural/developing-a-restful-api): 介绍了如何使用 Go 和 Gin 框架开发 RESTful API。
 - [getting-started-with-generics](https://github.com/GallifreyGoTutoural/getting-started-with-generics): 介绍了如何使用 Go 的泛型功能。
-- getting-started-with-fuzzing: 介绍了如何使用 Go 语言进行模糊测试。
+- [getting-started-with-fuzzing](https://github.com/GallifreyGoTutoural/getting-started-with-fuzzing): 介绍了如何使用 Go 语言进行模糊测试。
 - [a-tour-of-go](https://github.com/GallifreyGoTutoural/a-tour-of-go): 介绍了 Go 语言的基本概念和语法，适合初学者。
 
 其他：
