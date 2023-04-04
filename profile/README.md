@@ -11,7 +11,7 @@ Follow projects in this organization are based on the official Go documentation 
 - [accessing-a-relational-database](https://github.com/GallifreyGoTutoural/accessing-a-relational-database): Introduces how to connect to and use a relational database.
 - [developing-a-restful-api](https://github.com/GallifreyGoTutoural/developing-a-restful-api): Introduces how to develop a RESTful API using Go and the Gin framework.
 - [getting-started-with-generics](https://github.com/GallifreyGoTutoural/getting-started-with-generics): Introduces how to use Go's generic features.
-- getting-started-with-fuzzing: Introduces how to use Go language for fuzz testing.
+- [getting-started-with-fuzzing](https://github.com/GallifreyGoTutoural/getting-started-with-fuzzing): Introduces how to use Go language for fuzz testing.
 - [a-tour-of-go](https://github.com/GallifreyGoTutoural/a-tour-of-go): Introduces the basic concepts and syntax of the Go language, suitable for beginners.
 
 Others:
