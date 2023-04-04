@@ -1,5 +1,5 @@
 # 👋 欢迎来到 Gallifrey 的 Go 教程！
-[Englis](https://github.com/GallifreyGoTutoural/.github/tree/main/profile#readme)   ||  [中文](https://github.com/GallifreyGoTutoural/.github/tree/main/profile_zh#readme)
+[English](https://github.com/GallifreyGoTutoural/.github/tree/main/profile#readme)   ||  [中文](https://github.com/GallifreyGoTutoural/.github/tree/main/profile_zh#readme)
 ## 🧙 关于我们
 该组织包含多个 Go 语言教程项目的代码库。所有项目都基于官方 Go 文档中的教程 [Tutorials - The Go Programming Language](https://go.dev/doc/tutorial/)。这些项目旨在帮助大多数 Go 语言爱好者更好地学习和使用该语言。
 
