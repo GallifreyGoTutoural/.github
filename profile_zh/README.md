@@ -18,6 +18,7 @@
 其他：
 
 - [go-gin-web-server](https://github.com/GallifreyGoTutoural/go-gin-web-server): 在[Render](https://render.com/)上部署Go Gin Web Server
+ [gin-file-server](https://github.com/GallifreyGoTutoural/gin-file-server): 一个使用 Gin 框架构建的简单文件服务器，支持文件上传、下载，使用 GORM 在 MySQL 中跟踪上传历史记录，使用 Kafka-go 进行事件通知，并使用 Zap 进行日志记录
 
 我们欢迎社区成员的贡献，包括您可能创建的其他 Go 语言教程程序。如果您有一个想与其他人分享的项目，请随时提交带有程序代码的 pull request。感谢您的贡献！
 
