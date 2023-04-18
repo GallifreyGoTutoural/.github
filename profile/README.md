@@ -16,7 +16,7 @@ Follow projects in this organization are based on the official Go documentation 
 
 Others:
 - [go-gin-web-server](https://github.com/GallifreyGoTutoural/go-gin-web-server): Deploy Go Gin Web Server on [Render](https://render.com/)
-- [gin-file-server](https://github.com/GallifreyGoTutoural/gin-file-server): A simple file server built with Gin framework, featuring file uploads, downloads, and tracking of upload history in MySQL using GORM, as well as event notification using Kafka-go and logging with Zap.
+- [go-gin-file-server](https://github.com/GallifreyGoTutoural/go-gin-file-server): A simple file server built with Gin framework, featuring file uploads, downloads, and tracking of upload history in MySQL using GORM, as well as event notification using Kafka-go and logging with Zap.
 
 We welcome contributions from the community, including additional Go language tutorial programs that you may create. If you have a project that you would like to share with others, please feel free to submit a pull request with your program code. Thank you for your contribution!
 
