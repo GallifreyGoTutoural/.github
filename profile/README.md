@@ -17,6 +17,8 @@ Follow projects in this organization are based on the official Go documentation 
 Others:
 - [go-gin-web-server](https://github.com/GallifreyGoTutoural/go-gin-web-server): Deploy Go Gin Web Server on [Render](https://render.com/)
 - [go-gin-file-server](https://github.com/GallifreyGoTutoural/go-gin-file-server): A simple file server built with Gin framework, featuring file uploads, downloads, and tracking of upload history in MySQL using GORM, as well as event notification using Kafka-go and logging with Zap.
+- [ggt-simple-gin](https://github.com/GallifreyGoTutoural/ggt-simple-gin)：A web framework project that imitates the hand-written implementation of gin. It aims to gain a deeper understanding of the underlying principles and design patterns of gin and ultimately create a simplified version of a web framework called gsg.
+- [ggt-dist-cache](https://github.com/GallifreyGoTutoural/ggt-dist-cache)：A project that aims to handwrite a distributed cache system as an imitation of groupcache. The goal is to gain a deeper understanding of the underlying principles and design patterns of groupcache and eventually implement a simplified version of a distributed cache system called "gdc"
 
 We welcome contributions from the community, including additional Go language tutorial programs that you may create. If you have a project that you would like to share with others, please feel free to submit a pull request with your program code. Thank you for your contribution!
 
