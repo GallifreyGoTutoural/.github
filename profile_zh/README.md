@@ -21,7 +21,7 @@
 - [go-gin-file-server](https://github.com/GallifreyGoTutoural/go-gin-file-server): 一个使用 Gin 框架构建的简单文件服务器，支持文件上传、下载，使用 GORM 在 MySQL 中跟踪上传历史记录，使用 Kafka-go 进行事件通知，并使用 Zap 进行日志记录
 - [ggt-simple-gin](https://github.com/GallifreyGoTutoural/ggt-simple-gin)：一个模仿gin手写的Web框架项目，旨在更深入地了解gin的底层原理和设计模式，最终实现一个简易版本的Web框架——gsg
 - [ggt-dist-cache](https://github.com/GallifreyGoTutoural/ggt-dist-cache)：ggt-dist-cache是模仿groupcache手写一个分布式缓存系统的项目，旨在更深入地了解groupcache的底层原理和设计模式，最终实现一个简易版本的分布式缓存系统——"gdc"
-- [ggt-rpc](https://github.com/GallifreyGoTutoural/ggt-rpc):ggt-rpc是一个基于Go语言官方标准库net/rpc从头开始实现的rpc框架，并在此基础上增加了协议交换、注册中心、服务发现、负载平衡和超时处理等功能。
+- [ggt-rpc](https://github.com/GallifreyGoTutoural/ggt-rpc)：ggt-rpc是一个基于Go语言官方标准库net/rpc从头开始实现的rpc框架，并在此基础上增加了协议交换、注册中心、服务发现、负载平衡和超时处理等功能。
 
 
 我们欢迎社区成员的贡献，包括您可能创建的其他 Go 语言教程程序。如果您有一个想与其他人分享的项目，请随时提交带有程序代码的 pull request。感谢您的贡献！
